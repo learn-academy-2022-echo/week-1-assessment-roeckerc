@@ -1,3 +1,4 @@
+
 // ASSESSMENT 1: Coding Practical Questions
 
 // To run file: navigate to the correct directory in terminal, $ node code-challenges.js
